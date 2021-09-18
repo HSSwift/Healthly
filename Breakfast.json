@@ -1,0 +1,104 @@
+[
+    {
+        "title":"Strawberry",
+        "calories": 4
+    },
+    {
+        "title":"Apple",
+        "calories": 95
+    },
+    {
+        "title":"Bananas",
+        "calories": 105
+    },
+    {
+        "title":"Orange",
+        "calories": 45
+    },
+    {
+        "title":"Kiwi",
+        "calories": 42
+    },
+
+    {
+        "title":"Pineapple",
+        "calories": 452
+    },
+    {
+        "title":"Whole Wheat Bread",
+        "calories": 69
+    },
+    {
+        "title":"White Bread",
+        "calories": 79
+    },
+    {
+        "title":"Pancakes",
+        "calories": 64
+    },
+    {
+        "title":"Waffles",
+        "calories": 180
+    },
+    {
+        "title":"Strawberry",
+        "calories": 4
+    },
+    {
+        "title":"Bagel",
+        "calories": 245
+    },
+    {
+        "title":"Bagel with Cream Cheese",
+        "calories": 379
+    },
+    {
+        "title":"Scrambled Eggs",
+        "calories": 91
+    },
+    {
+        "title":"Breakfast Burrito",
+        "calories": 395
+    },
+    {
+        "title":"French Toast",
+        "calories": 149
+    },
+    {
+        "title":"Hash Browns",
+        "calories": 470
+    },
+    {
+        "title":"Omelette",
+        "calories": 94
+    },
+    {
+        "title":"Croissant",
+        "calories": 231
+    },
+    {
+        "title":"Bacon",
+        "calories": 43
+    },
+    {
+        "title":"Dosa",
+        "calories": 170
+    },
+    {
+        "title":"Idli",
+        "calories": 35
+    },
+    {
+        "title":"Blueberry Muffin",
+        "calories": 467
+    },
+    {
+        "title":"Oatmeal",
+        "calories": 158
+    },
+    {
+        "title":"Honey Nut Cheerios",
+        "calories": 105
+    }
+]
+
