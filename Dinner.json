@@ -1,0 +1,55 @@
+
+[
+    {
+    "title": "Spaghetti With Meatballs",
+    "calories": 400
+    },
+    {
+    "title": "Chicken Alfredo",
+    "calories": 650
+    },
+    {
+    "title": "Macaroni and Cheese",
+    "calories": 310
+    },
+    {
+    "title": "Chicken Pot Pie",
+    "calories": 599
+    },
+    {
+    "title": "Tuna Casserole",
+    "calories": 308
+    },
+    {
+    "title": "Sloppy Joe's",
+    "calories": 634
+    },
+    {
+    "title": "Grilled Cheese",
+    "calories": 400
+    },
+    {
+    "title": "Pizza(Cheese Only)",
+    "calories": 168
+    },
+    {
+    "title": "Pizza(Vegetable)",
+    "calories": 399
+    },
+    {
+    "title": "Pizza(Pepperoni Only)",
+    "calories": 181
+    },
+    {
+    "title": "Lasagna",
+    "calories": 602
+    },
+    {
+    "title": "Garden Salad",
+    "calories": 12
+    },
+    {
+    "title": "Chicken Salad",
+    "calories": 417
+    },
+]
