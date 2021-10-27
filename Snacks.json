@@ -1,0 +1,83 @@
+
+[
+    {
+    "title": "Chips",
+    "calories": 150
+    },
+    {
+    "title": "Ice Cream",
+    "calories": 137
+    },
+    {
+    "title": "Sprouts",
+    "calories": 400
+    },
+    {
+    "title": "Chocolate Bar(Milk)",
+    "calories": 235
+    },
+    {
+    "title": "Chocolate Chip Cookies",
+    "calories": 49
+    },
+    {
+    "title": "Donut(Glazed)",
+    "calories": 190
+    },
+    {
+    "title": "Apple Turnover",
+    "calories": 285
+    },
+    {
+    "title": "Salted Peanuts",
+    "calories": 170
+    },
+    {
+    "title": "Cake",
+    "calories": 290
+    },
+    {
+    "title": "Cliff Bars",
+    "calories": 240
+    },
+    {
+    "title": "Almonds",
+    "calories": 164
+    },
+    {
+    "title": "Walnuts",
+    "calories": 185
+    },
+    {
+    "title": "Cashews",
+    "calories": 164
+    },
+    {
+    "title": "Pumpkin Seeds",
+    "calories": 280
+    },
+    {
+    "title": "Sunflower Seeds",
+    "calories": 160
+    },
+    {
+    "title": "Dates",
+    "calories": 20
+    },
+    {
+    "title": "Prunes",
+    "calories": 240
+    },
+    {
+    "title": "Cranberries",
+    "calories": 23
+    },
+    {
+    "title": "Raisins",
+    "calories": 120
+    },
+    {
+    "title": "Granola Bars",
+    "calories": 132
+    },
+]
