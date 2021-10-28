@@ -1,58 +1,58 @@
 [
 {
 "title": "Cold Cuts",
-"calories": 99
+"calories": 99.0
 },
 {
 "title": "Tomato Soup",
-"calories": 74
+"calories": 74.0
 },
 {
 "title": "Grilled Cheese Sandwich",
-"calories": 440
+"calories": 440.0
 },
 {
 "title": "Chicken Caesar Salad",
-"calories": 450
+"calories": 450.0
 },
 {
 "title": "Peanut Butter and Jelly Sandwich",
-"calories": 350
+"calories": 350.0
 },
 {
 "title": "Chicken Burger",
-"calories": 515
+"calories": 515.0
 },
 {
 "title": "Veggie Burger",
-"calories": 124
+"calories": 124.0
 },
 {
 "title": "Chicken Nuggets",
-"calories": 59
+"calories": 59.0
 },
 {
 "title": "Hot Dog",
-"calories": 151
+"calories": 151.0
 },
 {
 "title": "BLT Sandwich",
-"calories": 549
+"calories": 549.0
 },
 {
 "title": "Basmati Rice",
-"calories": 210
+"calories": 210.0
 },
 {
 "title": "Roti",
-"calories": 297
+"calories": 297.0
 },
 {
 "title": "Dal",
-"calories": 259
+"calories": 259.0
 },
 {
 "title": "Chicken Wrap",
-"calories": 300
+"calories": 300.0
 },
 ]
