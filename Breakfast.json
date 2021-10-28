@@ -1,96 +1,92 @@
 [
     {
         "title":"Strawberry",
-        "calories": 4
+        "calories": 4.0
     },
     {
         "title":"Apple",
-        "calories": 95
+        "calories": 95.0
     },
     {
         "title":"Bananas",
-        "calories": 105
+        "calories": 105.0
     },
     {
         "title":"Orange",
-        "calories": 45
+        "calories": 45.0
     },
     {
         "title":"Kiwi",
-        "calories": 42
+        "calories": 42.0
     },
 
     {
         "title":"Pineapple",
-        "calories": 452
+        "calories": 452.0
     },
     {
         "title":"Whole Wheat Bread",
-        "calories": 69
+        "calories": 69.0
     },
     {
         "title":"White Bread",
-        "calories": 79
+        "calories": 79.0
     },
     {
         "title":"Pancakes",
-        "calories": 64
+        "calories": 64.0
     },
     {
         "title":"Waffles",
-        "calories": 180
-    },
-    {
-        "title":"Strawberry",
-        "calories": 4
+        "calories": 180.0
     },
     {
         "title":"Bagel",
-        "calories": 245
+        "calories": 245.0
     },
     {
         "title":"Bagel with Cream Cheese",
-        "calories": 379
+        "calories": 379.0
     },
     {
         "title":"Scrambled Eggs",
-        "calories": 91
+        "calories": 91.0
     },
     {
         "title":"Breakfast Burrito",
-        "calories": 395
+        "calories": 395.0
     },
     {
         "title":"French Toast",
-        "calories": 149
+        "calories": 149.0
     },
     {
         "title":"Hash Browns",
-        "calories": 470
+        "calories": 470.0
     },
     {
         "title":"Omelette",
-        "calories": 94
+        "calories": 94.0
     },
     {
         "title":"Croissant",
-        "calories": 231
+        "calories": 231.0
     },
     {
         "title":"Bacon",
-        "calories": 43
+        "calories": 43.0
     },
     {
         "title":"Dosa",
-        "calories": 170
+        "calories": 170.0
     },
     {
         "title":"Idli",
-        "calories": 35
+        "calories": 35.0
     },
     {
         "title":"Blueberry Muffin",
-        "calories": 467
+        "calories": 467.0
     },
     {
         "title":"Oatmeal",
